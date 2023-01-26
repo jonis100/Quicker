@@ -5,7 +5,7 @@ import random
 import threading
 THRADS_NUM = 50
 
-url = "https://www.sex-chat-phone-sex.co.uk/wp-content/DHIsrael/torsion/logz/log.php"
+url = "URL_WHICH_DATA_SEND_TO_BY_YOUR_SUBMIT_CLICK"
 
 
 def generate_nums(n):
